@@ -7,7 +7,7 @@ Stroke is a disease that affects the arteries leading to and within the brain. A
 https://data.mendeley.com/datasets/jpb5tds9f6/1
 
 # Contributors:
-Harman Singh (2019042)
-Amisha Aggarwal (2019016)
-Yash Tanwar (2019130)
-Meenal Gurbaxani (2019438)
+Harman Singh (2019042) \
+Amisha Aggarwal (2019016) \
+Yash Tanwar (2019130) \
+Meenal Gurbaxani (2019438) \
