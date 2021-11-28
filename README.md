@@ -38,7 +38,10 @@ The models are saved via pickle in the /Weights directory by their name. Eg Logi
   
         X_test : Preprocessed testing data
         Y_pred = model.predict(X_test) : Predicted array
-          
+  * To run the entire file on Google Colab
+        Click on Runtime -> Run all 
+ 
+      
 
 # Installed dependencies #
     python 3.7
