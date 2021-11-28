@@ -10,4 +10,4 @@ https://data.mendeley.com/datasets/jpb5tds9f6/1
 Harman Singh (2019042) \
 Amisha Aggarwal (2019016) \
 Yash Tanwar (2019130) \
-Meenal Gurbaxani (2019438) \
+Meenal Gurbaxani (2019438)
