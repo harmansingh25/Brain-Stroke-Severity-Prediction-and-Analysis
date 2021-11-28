@@ -22,7 +22,7 @@ We have used features including hypertension, body mass index level, average glu
 * The source of the dataset is : https://data.mendeley.com/datasets/jpb5tds9f6/1\
 * Dataset can also be found in this repository with the path /Stroke_analysis1 - Stroke_analysis1.csv
 * The dataset description is as follows:
-  ![picture alt](https://drive.google.com/file/d/1O8YAhT-lZafJKNPYOcmOZ9mfWMWMk87b/view?usp=sharing "Dataset Description")
+  ![image](https://drive.google.com/file/d/1O8YAhT-lZafJKNPYOcmOZ9mfWMWMk87b/view?usp=sharing)
 
 
 # Steps to run models #
