@@ -1,3 +1,11 @@
+
+# Contributors:
+Harman Singh (harman19042@iiitd.ac.in) \
+Amisha Aggarwal (amisha19016@iiitd.ac.in) \
+Yash Tanwar (yash19130@iiitd.ac.in) \
+Meenal Gurbaxani (meenal19434@iiitd.ac.in)
+
+
 # Brain Stroke Severity Prediction and Analysis
 Stroke is a disease that affects the arteries leading to and within the brain. A stroke occurs when a blood vessel that carries oxygen and nutrients to the brain is either blocked by a clot or ruptures. According to the WHO, stroke is the 2nd leading cause of death worldwide. Globally, 3% of the population are affected by subarachnoid hemorrhage, 10% with intracerebral hemorrhage, and the majority of 87% with ischemic stroke. 80% of the time these strokes can be prevented, so putting in place proper education on the signs of stroke is very important. The existing research is limited in predicting risk factors pertained to various types of strokes. This research work proposes an early prediction of stroke diseases by using different machine learning approaches with the occurrence of hypertension, body mass index level, average glucose level, smoking status, previous stroke and age. Machine Learning techniques including Logistic Regression, Random Forest, Decision Trees, Naive Bayes, SVM, MLP etc. are used to predict the severity of future stroke occurrence on a scale of 0 to 3. The study not only predicts the fututre risk of a getting a stroke for a certain individual who has never had a stroke, but also the future risk of occurrence of a more dangerous variant of stroke for those who have already had a stroke.
 
@@ -22,8 +30,8 @@ The models are saved via pickle in the /Weights directory by their name. Eg Logi
         file.close()    
     
   * To test the models 
-          X_test : Preprocessed testing data
-          Y_pred = model.predict(X_test) : Predicted array
+        X_test : Preprocessed testing data
+        Y_pred = model.predict(X_test) : Predicted array
           
 
 # Installed dependencies #
@@ -83,8 +91,3 @@ The models are saved via pickle in the /Weights directory by their name. Eg Logi
 
 
 
-# Contributors:
-Harman Singh (2019042) \
-Amisha Aggarwal (2019016) \
-Yash Tanwar (2019130) \
-Meenal Gurbaxani (2019434)
