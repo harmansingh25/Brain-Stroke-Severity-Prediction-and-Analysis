@@ -19,8 +19,8 @@ Our work attempts to predict the risk of stroke-based upon a ranking scale deter
 We have used features including hypertension, body mass index level, average glucose level, smoking status, previous stroke severity(Nihss score), age and gender to predict the risk of stroke for an individual. Machine Learning techniques including Logistic Regression, Random Forest, Decision Trees and Naive Bayes have been used for prediction.Our work also determines the importance of the characteristics available and determined by the dataset.Our contribution can help predict early signs and prevention of this deadly disease.
 
 # Dataset #
-* The source of the dataset is : https://data.mendeley.com/datasets/jpb5tds9f6/1\
-* Dataset can also be found in this repository with the path /Stroke_analysis1 - Stroke_analysis1.csv
+* The source of the dataset is : https://data.mendeley.com/datasets/jpb5tds9f6/1 
+* Dataset can also be found in this repository with the path ./Stroke_analysis1 - Stroke_analysis1.csv
 * The dataset description is as follows: \
   The dataset consists of 4798 records of patients out of which 3122 are males and 1676 are females. There are 12 primary features describing the dataset with one   feature being the target variable. The description about the primary features is given in the following table. \
   ![alt text](https://github.com/harmansingh25/ML_Project_2021/blob/main/Plots/Dataset%20Description.png?raw=true)
